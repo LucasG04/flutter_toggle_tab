@@ -4,6 +4,8 @@ version: 0.0.5+4
 author: Mudassir<hey.mudassir@gmail.com>
 homepage: https://github.com/ukieTux/flutter_toggle_tab
 
+publish_to: 'none'
+
 environment:
   sdk: ">=2.7.0 <3.0.0"
   flutter: ">=1.17.0"
